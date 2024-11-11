@@ -1,0 +1,7 @@
+C:\Users\Hi-tech\Desktop\Новая папка (5)\code_pr4\code_pr4\bin\Debug\code_pr4.exe.config
+C:\Users\Hi-tech\Desktop\Новая папка (5)\code_pr4\code_pr4\bin\Debug\code_pr4.exe
+C:\Users\Hi-tech\Desktop\Новая папка (5)\code_pr4\code_pr4\bin\Debug\code_pr4.pdb
+C:\Users\Hi-tech\Desktop\Новая папка (5)\code_pr4\code_pr4\obj\Debug\code_pr4.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Новая папка (5)\code_pr4\code_pr4\obj\Debug\code_pr4.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Новая папка (5)\code_pr4\code_pr4\obj\Debug\code_pr4.exe
+C:\Users\Hi-tech\Desktop\Новая папка (5)\code_pr4\code_pr4\obj\Debug\code_pr4.pdb
